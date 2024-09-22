@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="12" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T18:37:33 IST" name="Suite" finished-at="2024-09-22T18:42:07 IST" duration-ms="273804">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T18:37:33 IST" name="Test" finished-at="2024-09-22T18:42:07 IST" duration-ms="273804">
+      <class name="AmazonFlightTest.TC_03_WrongCredentials">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_03_WrongCredentials@7b36aa0c]" started-at="2024-09-22T18:37:45 IST" name="generic_methods01" finished-at="2024-09-22T18:37:48 IST" duration-ms="3061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="WrongCredentials()[pri:0, instance:AmazonFlightTest.TC_03_WrongCredentials@7b36aa0c]" started-at="2024-09-22T18:37:48 IST" name="WrongCredentials" finished-at="2024-09-22T18:37:50 IST" duration-ms="2684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrongCredentials -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_03_WrongCredentials@7b36aa0c]" started-at="2024-09-22T18:37:51 IST" name="after_coderun" finished-at="2024-09-22T18:37:51 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_03_WrongCredentials -->
+      <class name="AmazonFlightTest.TC_04_SearchOnWayFlight">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_04_SearchOnWayFlight@5824a83d]" started-at="2024-09-22T18:37:51 IST" name="generic_methods01" finished-at="2024-09-22T18:37:54 IST" duration-ms="3368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="OneWayTest()[pri:0, instance:AmazonFlightTest.TC_04_SearchOnWayFlight@5824a83d]" started-at="2024-09-22T18:37:54 IST" name="OneWayTest" finished-at="2024-09-22T18:38:04 IST" duration-ms="9787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneWayTest -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_04_SearchOnWayFlight@5824a83d]" started-at="2024-09-22T18:38:04 IST" name="after_coderun" finished-at="2024-09-22T18:38:05 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_04_SearchOnWayFlight -->
+      <class name="AmazonFlightTest.TC_10_ViewFareDetails">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_10_ViewFareDetails@4d154ccd]" started-at="2024-09-22T18:39:45 IST" name="generic_methods01" finished-at="2024-09-22T18:39:47 IST" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="testCaseFareDetails()[pri:0, instance:AmazonFlightTest.TC_10_ViewFareDetails@4d154ccd]" started-at="2024-09-22T18:39:47 IST" name="testCaseFareDetails" finished-at="2024-09-22T18:40:04 IST" duration-ms="17457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseFareDetails -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_10_ViewFareDetails@4d154ccd]" started-at="2024-09-22T18:40:05 IST" name="after_coderun" finished-at="2024-09-22T18:40:05 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_10_ViewFareDetails -->
+      <class name="AmazonFlightTest.TC_06_DifferentClassses">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_06_DifferentClassses@5677323c]" started-at="2024-09-22T18:38:26 IST" name="generic_methods01" finished-at="2024-09-22T18:38:29 IST" duration-ms="2492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="TestDiffClasses()[pri:0, instance:AmazonFlightTest.TC_06_DifferentClassses@5677323c]" started-at="2024-09-22T18:38:29 IST" name="TestDiffClasses" finished-at="2024-09-22T18:38:39 IST" duration-ms="9729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDiffClasses -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_06_DifferentClassses@5677323c]" started-at="2024-09-22T18:38:39 IST" name="after_coderun" finished-at="2024-09-22T18:38:39 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_06_DifferentClassses -->
+      <class name="AmazonFlightTest.TC_13_ApplyCode">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_13_ApplyCode@1e0b4072]" started-at="2024-09-22T18:40:47 IST" name="generic_methods01" finished-at="2024-09-22T18:40:49 IST" duration-ms="2344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="verifyApplyCode()[pri:0, instance:AmazonFlightTest.TC_13_ApplyCode@1e0b4072]" started-at="2024-09-22T18:40:49 IST" name="verifyApplyCode" finished-at="2024-09-22T18:41:06 IST" duration-ms="17201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApplyCode -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_13_ApplyCode@1e0b4072]" started-at="2024-09-22T18:41:07 IST" name="after_coderun" finished-at="2024-09-22T18:41:07 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_13_ApplyCode -->
+      <class name="AmazonFlightTest.TC_08_SelectSeat">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_08_SelectSeat@18df8434]" started-at="2024-09-22T18:38:39 IST" name="generic_methods01" finished-at="2024-09-22T18:38:43 IST" duration-ms="3563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="TestSeatSelection()[pri:0, instance:AmazonFlightTest.TC_08_SelectSeat@18df8434]" started-at="2024-09-22T18:38:43 IST" name="TestSeatSelection" finished-at="2024-09-22T18:39:01 IST" duration-ms="18719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSeatSelection -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_08_SelectSeat@18df8434]" started-at="2024-09-22T18:39:01 IST" name="after_coderun" finished-at="2024-09-22T18:39:02 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_08_SelectSeat -->
+      <class name="AmazonFlightTest.TC_02_Login">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_02_Login@82de64a]" started-at="2024-09-22T18:37:33 IST" name="generic_methods01" finished-at="2024-09-22T18:37:38 IST" duration-ms="4877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="TestCase01()[pri:0, instance:AmazonFlightTest.TC_02_Login@82de64a]" started-at="2024-09-22T18:37:38 IST" name="TestCase01" finished-at="2024-09-22T18:37:44 IST" duration-ms="6239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase01 -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_02_Login@82de64a]" started-at="2024-09-22T18:37:44 IST" name="after_coderun" finished-at="2024-09-22T18:37:45 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_02_Login -->
+      <class name="AmazonFlightTest.TC_12_LoginSearchLogout">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_12_LoginSearchLogout@4686afc2]" started-at="2024-09-22T18:40:29 IST" name="generic_methods01" finished-at="2024-09-22T18:40:32 IST" duration-ms="2527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="testcaseSearchlogout()[pri:0, instance:AmazonFlightTest.TC_12_LoginSearchLogout@4686afc2]" started-at="2024-09-22T18:40:32 IST" name="testcaseSearchlogout" finished-at="2024-09-22T18:40:46 IST" duration-ms="14370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseSearchlogout -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_12_LoginSearchLogout@4686afc2]" started-at="2024-09-22T18:40:46 IST" name="after_coderun" finished-at="2024-09-22T18:40:47 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_12_LoginSearchLogout -->
+      <class name="AmazonFlightTest.TC_11_VerifytestfieldsAndOffers">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_11_VerifytestfieldsAndOffers@229c6181]" started-at="2024-09-22T18:40:05 IST" name="generic_methods01" finished-at="2024-09-22T18:40:08 IST" duration-ms="2404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="testCase11()[pri:0, instance:AmazonFlightTest.TC_11_VerifytestfieldsAndOffers@229c6181]" started-at="2024-09-22T18:40:08 IST" name="testCase11" finished-at="2024-09-22T18:40:29 IST" duration-ms="21357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase11 -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_11_VerifytestfieldsAndOffers@229c6181]" started-at="2024-09-22T18:40:29 IST" name="after_coderun" finished-at="2024-09-22T18:40:29 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_11_VerifytestfieldsAndOffers -->
+      <class name="AmazonFlightTest.TC_09_MultiplePassenger">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_09_MultiplePassenger@65c7a252]" started-at="2024-09-22T18:39:02 IST" name="generic_methods01" finished-at="2024-09-22T18:39:04 IST" duration-ms="2468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="TestMultiple()[pri:0, instance:AmazonFlightTest.TC_09_MultiplePassenger@65c7a252]" started-at="2024-09-22T18:39:04 IST" name="TestMultiple" finished-at="2024-09-22T18:39:44 IST" duration-ms="39837" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@id='fl_tr_delete']/div[@class='_8172d157 _6c913dd6 _16d013e2 _948be45e'])[2]"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac16fadbdbbaf18c3c71605b55340cfe, findElement {value=(//div[@id='fl_tr_delete']/div[@class='_8172d157 _6c913dd6 _16d013e2 _948be45e'])[2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\NEEKIK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53278}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53278/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac16fadbdbbaf18c3c71605b55340cfe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@id='fl_tr_delete']/div[@class='_8172d157 _6c913dd6 _16d013e2 _948be45e'])[2]"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac16fadbdbbaf18c3c71605b55340cfe, findElement {value=(//div[@id='fl_tr_delete']/div[@class='_8172d157 _6c913dd6 _16d013e2 _948be45e'])[2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\NEEKIK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53278}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53278/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac16fadbdbbaf18c3c71605b55340cfe
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:351)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy10.click(Unknown Source)
+at amazonFlight.TravelersDetialsPage.clickDelete(TravelersDetialsPage.java:84)
+at AmazonFlightTest.TC_09_MultiplePassenger.TestMultiple(TC_09_MultiplePassenger.java:71)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMultiple -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_09_MultiplePassenger@65c7a252]" started-at="2024-09-22T18:39:44 IST" name="after_coderun" finished-at="2024-09-22T18:39:45 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_09_MultiplePassenger -->
+      <class name="AmazonFlightTest.TC_05_SearchTwoWayFlight">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_05_SearchTwoWayFlight@537f60bf]" started-at="2024-09-22T18:38:05 IST" name="generic_methods01" finished-at="2024-09-22T18:38:08 IST" duration-ms="3269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="TwoWayTest()[pri:0, instance:AmazonFlightTest.TC_05_SearchTwoWayFlight@537f60bf]" started-at="2024-09-22T18:38:08 IST" name="TwoWayTest" finished-at="2024-09-22T18:38:25 IST" duration-ms="17347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwoWayTest -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_05_SearchTwoWayFlight@537f60bf]" started-at="2024-09-22T18:38:25 IST" name="after_coderun" finished-at="2024-09-22T18:38:26 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_05_SearchTwoWayFlight -->
+      <class name="AmazonFlightTest.TC_15_CheckPayement">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_15_CheckPayement@38cee291]" started-at="2024-09-22T18:41:30 IST" name="generic_methods01" finished-at="2024-09-22T18:41:32 IST" duration-ms="2652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="testPayment()[pri:0, instance:AmazonFlightTest.TC_15_CheckPayement@38cee291]" started-at="2024-09-22T18:41:32 IST" name="testPayment" finished-at="2024-09-22T18:42:06 IST" duration-ms="33909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_15_CheckPayement@38cee291]" started-at="2024-09-22T18:42:06 IST" name="after_coderun" finished-at="2024-09-22T18:42:07 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_15_CheckPayement -->
+      <class name="AmazonFlightTest.TC_14_RoundTripSearch">
+        <test-method is-config="true" signature="generic_methods01()[pri:0, instance:AmazonFlightTest.TC_14_RoundTripSearch@791f145a]" started-at="2024-09-22T18:41:07 IST" name="generic_methods01" finished-at="2024-09-22T18:41:10 IST" duration-ms="2487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generic_methods01 -->
+        <test-method signature="testCaseRoundTrip()[pri:0, instance:AmazonFlightTest.TC_14_RoundTripSearch@791f145a]" started-at="2024-09-22T18:41:10 IST" name="testCaseRoundTrip" finished-at="2024-09-22T18:41:29 IST" duration-ms="19176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseRoundTrip -->
+        <test-method is-config="true" signature="after_coderun()[pri:0, instance:AmazonFlightTest.TC_14_RoundTripSearch@791f145a]" started-at="2024-09-22T18:41:29 IST" name="after_coderun" finished-at="2024-09-22T18:41:30 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_coderun -->
+      </class> <!-- AmazonFlightTest.TC_14_RoundTripSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
