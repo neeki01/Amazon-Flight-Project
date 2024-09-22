@@ -68,10 +68,10 @@ SearchPage sp=new SearchPage(driver);
 		fdp.ProceedPayment();
 	
 		TravelersDetialsPage tdp=new TravelersDetialsPage(driver);
-		tdp.clickDelete();
-		String delete1=driver.getWindowHandle();
-		driver.switchTo().window(delete1);
-		tdp.clickDeleteOnWindow();
+//		tdp.clickDelete();
+//		String delete1=driver.getWindowHandle();
+//		driver.switchTo().window(delete1);
+//		tdp.clickDeleteOnWindow();
 		
 		Thread.sleep(1000);
 		tdp.AddAdult();
