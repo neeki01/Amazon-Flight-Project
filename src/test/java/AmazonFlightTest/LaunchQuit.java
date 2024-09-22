@@ -34,9 +34,9 @@ public class LaunchQuit extends IListnersAmazon{
 	@BeforeMethod
 	public void generic_methods01()
 	{
-//					ChromeOptions ch=new ChromeOptions();
-//					ch.addArguments("--headless");
-					driver=new ChromeDriver();
+					ChromeOptions ch=new ChromeOptions();
+					ch.addArguments("--headless");
+					driver=new ChromeDriver(ch);
 					driver.get("https://www.amazon.in/flights?ref_=nav_em_sbc_desktop_flights_0_1_1_33");
 					//driver.get("https://www.makemytrip.com/");
 					//driver.get("https://www.goindigo.in/");
